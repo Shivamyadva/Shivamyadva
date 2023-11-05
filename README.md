@@ -31,7 +31,9 @@
                 </div> 
 
                 <div>
-                    <div class="deadlinecont flex "><b class="deadline fonts">Valid from 24/05/2023 to 23/10/2024</b></div>
+                    <div class="deadlinecont flex "><b class="deadline fonts">Valid from 24/12/2023 to 23/04/2024</b>
+                  
+                   </div>
 
                     <div class="flex contqrsign">
                         <div class="signcont border"><img src="sign.png" alt="" class="signimg"></div>
